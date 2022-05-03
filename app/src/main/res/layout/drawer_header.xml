@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:background="@color/color_primary"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imgDrawer"
+        android:clickable="true"
+        android:layout_marginTop="15dp"
+        android:layout_marginStart="15dp"
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:src="@drawable/ic_new_profile"/>
+
+    <RelativeLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/drawerName"
+            android:clickable="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:text="NAME OF USER"
+            android:textAlignment="center"
+            android:textColor="#fff"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:padding="10dp"/>
+
+        <TextView
+            android:id="@+id/drawerNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Number"
+            android:layout_marginStart="15dp"
+            android:textAlignment="center"
+            android:layout_below="@id/drawerName"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:padding="10dp"/>
+
+    </RelativeLayout>
+</LinearLayout>

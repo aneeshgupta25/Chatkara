@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Chatkara</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="sign_up"><u>Don\'t have an account? Sign up now</u></string>
+    <string name="shared_preference">Shared Preferences</string>
+    <string name="home">Home</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="faqs">FAQs</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Rs">\u20B9</string>
+    <string name="q1_ans">Good question! Well, this is a food app where you can order any yummazing meal you love!! We recommend never to keep your tummy empty :) So, what are you waiting for? Sit back, relax and let us bring you your delicious foodz!!</string>
+    <string name="q1">Q.1 What is this app for?</string>
+    <string name="q2">Q.2. What functionality does the app provide?</string>
+    <string name="q2_ans_1">If you don\'t have an account with us, be a part of our family by registering with us</string>
+    <string name="q2_ans_2">Then, you can navigate to the restaurant of your choice and can add the food of your choice to your cart</string>
+    <string name="q2_ans_3">The price of each item per person is mentioned along the item itself. You can order only one plate of an item. Though you can order as many dishes you want from that specific restaurant on which you are</string>
+    <string name="q2_ans_4">Then, place your order by clicking on the "PROCEED TO CART" button which will appear on the screen</string>
+    <string name="q2_ans_5">If your order is placed, you\'ll see a confirmation popup</string>
+    <string name="q2_ans_6">Now...Now what? Just sit back, RELAX!! and let us serve you your mouth-watering order :)</string>
+    <string name="q3">Q.3. Who made this Yummazing app?</string>
+    <string name="ans3_0"><![CDATA[Well, I am Aneesh, a first year UND.GRAD persuing B.Tech from a renowned university, NSUT, Delhi. I love to code and my skill pool include ->]]></string>
+    <string name="action_sort">Sort</string>
+
+    <array name="filters">
+        <item>Cost(Low to High)</item>
+        <item>Cost(High to Low)</item>
+        <item>Rating</item>
+    </array>
+
+</resources>

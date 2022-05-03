@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.FAQFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:id="@+id/q1_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10sp"
+                android:orientation="vertical"
+                android:layout_marginTop="10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/q1"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/color_secondary" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/color_primaryVariant"
+                    android:textSize="15sp"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/q1_ans"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/q2_layout"
+                android:layout_below="@+id/q1_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10sp"
+                android:orientation="vertical"
+                android:layout_marginTop="15dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/q2"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/color_secondary" />
+
+                <TextView
+                    android:drawableLeft="@drawable/bullet"
+                    android:drawablePadding="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/color_primaryVariant"
+                    android:textSize="15sp"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/q2_ans_1"/>
+
+                <TextView
+                    android:drawableLeft="@drawable/bullet"
+                    android:drawablePadding="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/color_primaryVariant"
+                    android:textSize="15sp"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/q2_ans_2"/>
+
+                <TextView
+                    android:drawableLeft="@drawable/bullet"
+                    android:drawablePadding="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/color_primaryVariant"
+                    android:textSize="15sp"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/q2_ans_3" />
+
+                <TextView
+                    android:drawableLeft="@drawable/bullet"
+                    android:drawablePadding="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/color_primaryVariant"
+                    android:textSize="15sp"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/q2_ans_4"/>
+
+                <TextView
+                    android:drawableLeft="@drawable/bullet"
+                    android:drawablePadding="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/color_primaryVariant"
+                    android:textSize="15sp"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/q2_ans_5"/>
+
+                <TextView
+                    android:drawableLeft="@drawable/bullet"
+                    android:drawablePadding="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/color_primaryVariant"
+                    android:textSize="15sp"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/q2_ans_6"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/q4_layout"
+                android:layout_below="@+id/q2_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10sp"
+                android:orientation="vertical"
+                android:layout_marginTop="15dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/q3"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/color_secondary" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/color_primaryVariant"
+                    android:textSize="15sp"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/ans3_0"/>
+
+                <TextView
+                    android:drawableLeft="@drawable/bullet"
+                    android:drawablePadding="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/color_primaryVariant"
+                    android:textSize="15sp"
+                    android:text="Data Structures"/>
+
+                <TextView
+                    android:drawableLeft="@drawable/bullet"
+                    android:drawablePadding="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/color_primaryVariant"
+                    android:textSize="15sp"
+                    android:text="Algorithms"/>
+
+                <TextView
+                    android:drawableLeft="@drawable/bullet"
+                    android:drawablePadding="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/color_primaryVariant"
+                    android:textSize="15sp"
+                    android:text="Android Dev"/>
+
+                <TextView
+                    android:drawableLeft="@drawable/bullet"
+                    android:drawablePadding="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/color_primaryVariant"
+                    android:textSize="15sp"
+                    android:text="KOTLIN"/>
+
+                <TextView
+                    android:drawableLeft="@drawable/bullet"
+                    android:drawablePadding="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/color_primaryVariant"
+                    android:textSize="15sp"
+                    android:text="JAVA"/>
+
+                <TextView
+                    android:drawableLeft="@drawable/bullet"
+                    android:drawablePadding="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/color_primaryVariant"
+                    android:textSize="15sp"
+                    android:text="C"/>
+
+                <TextView
+                    android:drawableLeft="@drawable/bullet"
+                    android:drawablePadding="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/color_primaryVariant"
+                    android:textSize="15sp"
+                    android:text="Python"/>
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_below="@id/q4_layout"/>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
