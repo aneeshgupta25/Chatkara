@@ -66,4 +66,4 @@ The App provides the following functionalities -> <br>
 14. <b> Log Out </b>
 <img src="https://user-images.githubusercontent.com/77202061/169406734-a6eabaa8-1bcd-496f-a5c7-36a9fafae744.jpeg" width="200" height="400" />
 
-# HOPE YOU LIKE THE APP :)
+# HOPE YOU LIKE THE YUMMAZING APP :)
