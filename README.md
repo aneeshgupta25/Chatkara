@@ -51,9 +51,9 @@ The App provides the following functionalities -> <br>
   <img src="https://user-images.githubusercontent.com/77202061/169404991-9de5622a-01e2-470e-b4d5-1acc98b5beb5.jpeg" width="200" height="400" />
   <img src="https://user-images.githubusercontent.com/77202061/169404993-59be2a5f-0697-45cf-99e3-2d51f85428cc.jpeg" width="200" height="400" />
 </p>
-10. <b> Sorting Action </b> 
+10. <b> Sorting Action -> Cost (low to high) </b> followed by <b> Rating </b> 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/77202061/169405470-4e1ac643-bbd7-4b2c-8d02-c13e70b41b09.jpeg" width="200" height="400" />
   <img src="https://user-images.githubusercontent.com/77202061/169405474-e7244636-e969-48ae-8700-a7b60287d07b.jpeg" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/77202061/169405470-4e1ac643-bbd7-4b2c-8d02-c13e70b41b09.jpeg" width="200" height="400" />
   <img src="https://user-images.githubusercontent.com/77202061/169405476-cbd54e10-f69c-4b0a-b184-550c7c461935.jpeg" width="200" height="400" />
 </p>
