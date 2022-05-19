@@ -20,17 +20,40 @@ The App provides the following functionalities -> <br>
 ## SCREENSHOTS
 1. <b> Splash Screen </b> <br>
 <img src="https://user-images.githubusercontent.com/77202061/169392362-31b77c16-b52e-41fa-9523-affce4c930ec.jpeg" width="200" height="400" />
-2. <b> Login Screen </b>
-<div class="row">
-  <div class="column">
-    <img src="img_snow.jpg" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img_forest.jpg" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
-  </div>
-</div>
-<img src="https://user-images.githubusercontent.com/77202061/169392362-31b77c16-b52e-41fa-9523-affce4c930ec.jpeg" width="200" height="400" />
-<img src="https://user-images.githubusercontent.com/77202061/169392362-31b77c16-b52e-41fa-9523-affce4c930ec.jpeg" width="200" height="400" />
+2. <b> Login Screen, Registration Screen </b> with <b> Forgot Password </b>
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/77202061/169401194-de88427a-c609-4c64-a31e-3f427d8e73e8.jpeg" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/77202061/169401199-37b675a8-4f27-4e9d-99a0-32457fb6f540.jpeg" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/77202061/169402430-42935112-5ee1-4819-bf7f-34be9fe742da.jpeg" width="200" height="400" />
+</p>
+3. <b> Restaurants List </b>
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/77202061/169402806-e89bb0f7-3b6d-4066-8124-28c261704b2a.jpeg" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/77202061/169402797-ea8bc699-c994-4205-8b91-1c6cc793cc2b.jpeg" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/77202061/169402807-103a3af3-0977-418e-b6af-7f6ef6d6afc9.jpeg" width="200" height="400" />
+</p>
+4. <b> Menu List </b> for <b> "Garber Burgers" </b> <br>
+   At this stage, no item is added to the cart.
+<img src="https://user-images.githubusercontent.com/77202061/169403332-7cbef552-e065-40c7-bdd4-363f096cabb9.jpeg" width="200" height="400" />
+5. <b> Menu List </b> for <b> "Garber Burgers" </b> <br>
+   At this stage, items are added to the cart.
+<img src="https://user-images.githubusercontent.com/77202061/169403624-db7230b0-c81f-49f8-8ea8-bed1fb71576b.jpeg" width="200" height="400" />
+6. <b> User's Cart (with total billing amount) </b>
+<img src="https://user-images.githubusercontent.com/77202061/169403999-b2ee4cd2-dd4e-4ba0-8c05-1df9df68007d.jpeg" width="200" height="400" />
+7. <b> Order Confirmation Screen </b>
+<img src="https://user-images.githubusercontent.com/77202061/169404257-faf37200-b361-4fc5-a9d3-96f4b30ec4d7.jpeg" width="200" height="400" />
+8. <b> Order History of the User </b>
+<img src="https://user-images.githubusercontent.com/77202061/169404468-424d01d0-f643-4f01-a86c-dccb9e7181d7.jpeg" width="200" height="400" />
+9. <b> Adding Restaurants to Favourites, Favourites Fragment </b> and <b> Remove from Favourites</b>
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/77202061/169404995-852352be-eee8-4294-a7a4-cf96d460951d.jpeg" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/77202061/169404982-b0f5be2b-5b10-42b8-93cf-3e72dc97f0a6.jpeg" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/77202061/169404991-9de5622a-01e2-470e-b4d5-1acc98b5beb5.jpeg" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/77202061/169404993-59be2a5f-0697-45cf-99e3-2d51f85428cc.jpeg" width="200" height="400" />
+</p>
+10. <b> Sorting Action </b> 
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/77202061/169405470-4e1ac643-bbd7-4b2c-8d02-c13e70b41b09.jpeg" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/77202061/169405474-e7244636-e969-48ae-8700-a7b60287d07b.jpeg" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/77202061/169405476-cbd54e10-f69c-4b0a-b184-550c7c461935.jpeg" width="200" height="400" />
+</p>
