@@ -65,3 +65,5 @@ The App provides the following functionalities -> <br>
 <img src="https://user-images.githubusercontent.com/77202061/169406609-4a1b6e10-d153-4f91-8fd3-df9501c39770.jpeg" width="200" height="400" />
 14. <b> Log Out </b>
 <img src="https://user-images.githubusercontent.com/77202061/169406734-a6eabaa8-1bcd-496f-a5c7-36a9fafae744.jpeg" width="200" height="400" />
+
+# HOPE YOU LIKE THE APP :)
